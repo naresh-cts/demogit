@@ -15,9 +15,11 @@ function AlbumList(){
         }
    return(
        <div>
+           <Counter></Counter>
+           <input placeholder = "Albumid"> </input> <button> Searcch</button>
            <table>  
                <thead>
-                        <form input></form>
+
                  <td> Title</td>
                    <td>URL</td>
                    </thead>   
